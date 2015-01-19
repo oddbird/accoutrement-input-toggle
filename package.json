@@ -1,0 +1,16 @@
+{
+  "name": "accoutrement-input-toggle",
+  "version": "1.0.0",
+  "description": "Layout helpers",
+  "homepage": "https://github.com/oddbird/accoutrement-input-toggle",
+  "main": "sass/_input-toggle.scss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oddbird/accoutrement-input-toggle.git"
+  },
+  "author": "Eric M Suzanne <eric@oddbird.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oddbird/accoutrement-input-toggle/issues"
+  }
+}
